@@ -10,3 +10,4 @@
 - react-redux
 - redux-devtools-extension
 - redux-actions
+- immer
